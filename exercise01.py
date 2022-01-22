@@ -60,7 +60,7 @@ data2 = [
 
 # 문제 1. 반복문, 조건문을 이용하여 리스트에서 중복을 제거해 보세요.
 data1_unique = []
-for i in range(len(data1)):
+for d in data1:
   ...
 
 print(data1_unique)
